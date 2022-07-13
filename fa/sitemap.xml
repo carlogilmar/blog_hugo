@@ -2,88 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fa/posts/markdown-syntax/</loc>
+    <loc>http://carlogilmar.xyz/blog_hugo/fa/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adityatelange.github.io/hugo-PaperMod/posts/markdown-syntax/"
+                href="http://carlogilmar.xyz/blog_hugo/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://adityatelange.github.io/hugo-PaperMod/fr/posts/markdown-syntax/"
+                href="http://carlogilmar.xyz/blog_hugo/fr/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://adityatelange.github.io/hugo-PaperMod/fa/posts/markdown-syntax/"
+                href="http://carlogilmar.xyz/blog_hugo/fa/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fa/fatags/css/</loc>
+    <loc>http://carlogilmar.xyz/blog_hugo/fa/fatags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fa/facategories/</loc>
+    <loc>http://carlogilmar.xyz/blog_hugo/fa/facategories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fa/faseries/</loc>
+    <loc>http://carlogilmar.xyz/blog_hugo/fa/faseries/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fa/fatags/</loc>
+    <loc>http://carlogilmar.xyz/blog_hugo/fa/fatags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fa/fatags/html/</loc>
+    <loc>http://carlogilmar.xyz/blog_hugo/fa/fatags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fa/fatags/markdown/</loc>
+    <loc>http://carlogilmar.xyz/blog_hugo/fa/fatags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fa/</loc>
+    <loc>http://carlogilmar.xyz/blog_hugo/fa/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adityatelange.github.io/hugo-PaperMod/"
+                href="http://carlogilmar.xyz/blog_hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://adityatelange.github.io/hugo-PaperMod/fr/"
+                href="http://carlogilmar.xyz/blog_hugo/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://adityatelange.github.io/hugo-PaperMod/fa/"
+                href="http://carlogilmar.xyz/blog_hugo/fa/"
                 />
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fa/posts/</loc>
+    <loc>http://carlogilmar.xyz/blog_hugo/fa/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adityatelange.github.io/hugo-PaperMod/posts/"
+                href="http://carlogilmar.xyz/blog_hugo/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://adityatelange.github.io/hugo-PaperMod/fr/posts/"
+                href="http://carlogilmar.xyz/blog_hugo/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://adityatelange.github.io/hugo-PaperMod/fa/posts/"
+                href="http://carlogilmar.xyz/blog_hugo/fa/posts/"
                 />
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fa/facategories/syntax/</loc>
+    <loc>http://carlogilmar.xyz/blog_hugo/fa/facategories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fa/fatags/themes/</loc>
+    <loc>http://carlogilmar.xyz/blog_hugo/fa/fatags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fa/facategories/themes/</loc>
+    <loc>http://carlogilmar.xyz/blog_hugo/fa/facategories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fa/faseries/themes-guide/</loc>
+    <loc>http://carlogilmar.xyz/blog_hugo/fa/faseries/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
 </urlset>

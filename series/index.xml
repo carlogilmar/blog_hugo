@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Series on PaperMod</title>
-    <link>https://adityatelange.github.io/hugo-PaperMod/series/</link>
+    <link>http://carlogilmar.xyz/blog_hugo/series/</link>
     <description>Recent content in Series on PaperMod</description>
     <image>
-      <url>https://adityatelange.github.io/hugo-PaperMod/papermod-cover.png</url>
-      <link>https://adityatelange.github.io/hugo-PaperMod/papermod-cover.png</link>
+      <url>http://carlogilmar.xyz/blog_hugo/papermod-cover.png</url>
+      <link>http://carlogilmar.xyz/blog_hugo/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://adityatelange.github.io/hugo-PaperMod/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://carlogilmar.xyz/blog_hugo/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PaperMod</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/series/papermod/</link>
+      <link>http://carlogilmar.xyz/blog_hugo/series/papermod/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/series/papermod/</guid>
+      <guid>http://carlogilmar.xyz/blog_hugo/series/papermod/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes Guide</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/series/themes-guide/</link>
+      <link>http://carlogilmar.xyz/blog_hugo/series/themes-guide/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/series/themes-guide/</guid>
+      <guid>http://carlogilmar.xyz/blog_hugo/series/themes-guide/</guid>
       <description></description>
     </item>
     
